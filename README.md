@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Привет! меня овут (меня зовут" title="👋 Привет! меня зовут (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" 
 
 <br clear="both">
 
