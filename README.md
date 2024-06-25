@@ -44,6 +44,7 @@ _ссылка на резюме на [hh.ru](https://yoshkar-ola.hh.ru/applicant
     
 2.Проект ___"Независимый оператор коммерческого учета коммунальных ресурсов"___ 
 (своего рода арбитр между потребителем и генерацией с выводом справедливых цЫфр в биллинг)
+   
    2.1.💬 [Описание метода](https://docs.google.com/document/d/0B9AA5Sx172NnZFlOenZpYWw1WmM/edit?usp=sharing&ouid=104796862401805548600&resourcekey=0-P8riyK7FA0PwbPFIGGxpmA&rtpof=true&sd=true)
    
    2.2.💬 [Анализ пилотной зоны](https://docs.google.com/document/d/0B9AA5Sx172NnbzJoZ0ZJZU8wOGc/edit?usp=sharing&ouid=104796862401805548600&resourcekey=0-P4SQiNKz286E1HpGCuN85g&rtpof=true&sd=true)
