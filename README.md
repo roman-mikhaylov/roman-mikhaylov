@@ -43,7 +43,7 @@ _ссылка на резюме на [hh.ru](https://yoshkar-ola.hh.ru/applicant
 ###
 <h3 align="left">⚡ Мои проекты</h3>
 
-1. [Проект __"Правильная точка доступа"_](https://drive.google.com/file/d/0B9AA5Sx172NnUFNSelloZlVVQTQ/view?usp=sharing&resourcekey=0-giaCks15eQy9b20-hcOAQA2)
+1. [Проект _"Правильная точка доступа"_](https://drive.google.com/file/d/0B9AA5Sx172NnUFNSelloZlVVQTQ/view?usp=sharing&resourcekey=0-giaCks15eQy9b20-hcOAQA2)
     ввход для IT компании в многоквартирный дом через предоствление жителям справедливой информации по качеству поставленного коммунального ресурса  
 ###     
     
@@ -61,7 +61,7 @@ _ссылка на резюме на [hh.ru](https://yoshkar-ola.hh.ru/applicant
 
     💬 [Рабочие документы по реализованному проекту](https://drive.google.com/drive/folders/0B9AA5Sx172NnVWw1Yzh5Vkk5VHM?resourcekey=0-I4yhcHuUo5PFuudFjtN4EQ&usp=sharing) 
 
-4. [КОНЦЕПЦИЯ Информационного обмена СРО - УК - Собственник}(https://docs.google.com/presentation/d/1xFizkWtDwSTmXs_ezFo4v7wCnM8WdoYz/edit?usp=sharing&ouid=104796862401805548600&rtpof=true&sd=true)
+4. [КОНЦЕПЦИЯ Информационного обмена СРО - УК - Собственник](https://docs.google.com/presentation/d/1xFizkWtDwSTmXs_ezFo4v7wCnM8WdoYz/edit?usp=sharing&ouid=104796862401805548600&rtpof=true&sd=true)
 
 5. [Единичные расценки по текущему содержанию и ремонту МКД "База ТСЖ 2001"](https://docs.google.com/presentation/d/1VLkAk7mMN5tvQHZMfIxEIPvQeR8Etf2s/edit?usp=sharing&ouid=104796862401805548600&rtpof=true&sd=true)
 
