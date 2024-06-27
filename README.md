@@ -61,7 +61,7 @@ _ссылка на резюме на [hh.ru](https://yoshkar-ola.hh.ru/applicant
 
     💬 [Рабочие документы по реализованному проекту](https://drive.google.com/drive/folders/0B9AA5Sx172NnVWw1Yzh5Vkk5VHM?resourcekey=0-I4yhcHuUo5PFuudFjtN4EQ&usp=sharing) 
 
-4. [Копия КОНЦЕПЦИЯ Информационного обмена СРО - УК - Собственник}(https://docs.google.com/presentation/d/1xFizkWtDwSTmXs_ezFo4v7wCnM8WdoYz/edit?usp=sharing&ouid=104796862401805548600&rtpof=true&sd=true)
+4. [КОНЦЕПЦИЯ Информационного обмена СРО - УК - Собственник}(https://docs.google.com/presentation/d/1xFizkWtDwSTmXs_ezFo4v7wCnM8WdoYz/edit?usp=sharing&ouid=104796862401805548600&rtpof=true&sd=true)
 
 5. [Единичные расценки по текущему содержанию и ремонту МКД "База ТСЖ 2001"](https://docs.google.com/presentation/d/1VLkAk7mMN5tvQHZMfIxEIPvQeR8Etf2s/edit?usp=sharing&ouid=104796862401805548600&rtpof=true&sd=true)
 
