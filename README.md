@@ -44,7 +44,7 @@
   <li>
     UI‑автотесты (Playwright, JavaScript) – репозиторий с тестами для демо web‑приложения:
     авторизация, формы, фильтры. <br/>
-    <em>Ссылка будет здесь, когда репозиторий будет готов.</em>
+    <em>- [aqa-intern-challenge-romanmikhailov](https://github.com/roman-mikhaylov/aqa-intern-challenge-romanmikhailov) – учебный проект на Playwright: починил автотесты виджета поддержки (strict mode, селекторы), добавил сценарий перехода по популярной статье и открытия формы «Связь с поддержкой».</em>
   </li>
   <li>
     API‑тесты – коллекции и автотесты для REST API (авторизация, CRUD‑операции,
