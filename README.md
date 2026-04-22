@@ -15,7 +15,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roman-mikhaylov&label=Profile%20views&color=0e75b6&style=flat" alt="roman-mikhaylov" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roman-mikhaylov" alt="roman-mikhaylov" /></a> </p>
 
 ***
 
@@ -101,11 +100,11 @@
 ***
 
 ### SA/BA/DS
-<h3 align="left">🧪 ML /  портфолио</h3>
+<h3 align="left">🧪  Портфолио</h3>
 <ul align="left">
   <li>
     Учебные проекты и т.д <br/>
-    <em>- Ссылка будет здесь, когда репозиторий будет готов.
+    <em>Ссылка будет здесь, когда репозиторий будет готов.
     </em>
 
 
