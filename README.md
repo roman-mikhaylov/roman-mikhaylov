@@ -1,123 +1,75 @@
-<br clear="both">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=roman-mikhaylov&label=Profile%20views&color=0e75b6&style=flat" alt="roman-mikhaylov" />
+</p>
 
-</div>
+# Михайлов Роман
 
+QA Automation Engineer / Software Tester • Data Analyst
 
-<div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-</div>
-<h1 align="center">Привет 👋, Меня зовут Михайлов Роман</h1>
-<h3 align="center">Начинающий: QA, DS, BA, SА. 
-  Основная экспертиза: Expert on energy efficiency in apartment buildings. 
- </h3>
+---
 
-***
+- 🔭 Развиваюсь в **автоматизации тестирования** (UI+API) и построении процессов качества
+- 🌱 Курсы по DS — **Synergy**, по QA, CA и BA — **GeekBrains**
+- 🤝 Открыт к предложениям по **QA Automation / Software Testing / QA Intern / Junior**
+- 💬 Есть экспертиза в домене **энергоэффективности и ЖКХ**
+- 📫 Контакты: **mr.mikhailoff@gmail.com**, **+7 919 416 65 57**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roman-mikhaylov&label=Profile%20views&color=0e75b6&style=flat" alt="roman-mikhaylov" /> </p>
+---
 
+## Tech stack (junior)
 
-***
+| Tech | Tech | Tech | Tech | Tech |
+|------|------|------|------|------|
+| <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> | <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> | <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> | <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a> |
+| <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> | <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> | <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> | <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> | <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a> |
+| <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> | <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> |  |  |  |
 
-- 🔭 В настоящий момент работаю **над углублением scills**
+---
 
-- 🌱 квалификаицию повышал по DS  в **Synergy** . QA, CA и BA в **Geekbrains**
-  
-- 🤝 Я ищу поддержки в поиске **работы, стажировки по этим направлениям**
+## 🧪 QA / Automation портфолио
 
-- 💬 можете спросить меня и точно отвечу на вопросы по **энергоэффективности и ЖКХ**
+- UI‑автотесты (Playwright, JavaScript)  
+  [aqa-intern-challenge-romanmikhailov](https://github.com/roman-mikhaylov/aqa-intern-challenge-romanmikhailov) — учебный проект на Playwright: починил автотесты виджета поддержки (strict mode, селекторы), добавил сценарий перехода по популярной статье и открытия формы «Связь с поддержкой».
 
-- 📫 Связаться со мной можно **mr.mikhailoff@gmail.com или +7 919 416 65 57**
+- API‑тестирование  
+  Репозиторий с примерами коллекций и автотестов REST API (авторизация, CRUD‑операции, обработка ошибок).  
+  *Ссылка появится здесь, когда репозиторий будет готов.*
 
-***
+- Тестовая документация  
+  Примеры чек‑листов, тест‑кейсов и баг‑репортов для небольшого web‑сервиса.  
+  *Ссылка появится здесь, когда репозиторий будет готов.*
 
-<h3 align="left">Skills (уровень джуна):</h3>
+---
 
-|  |  |  |  |  |
-|---|---|---|---|---|
-| <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>| <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>|<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>| <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>| <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a> | <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a> | <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> | <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> |
-| <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> | <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> | <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> | <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> |  |
-***
-<h3 align="left">🧪 QA / Automation портфолио</h3>
-<ul align="left">
-  <li>
-    UI‑автотесты (Playwright, JavaScript) – репозиторий с тестами для демо web‑приложения:
-    авторизация, формы, фильтры. <br/>
-    <em>- [aqa-intern-challenge-romanmikhailov](https://github.com/roman-mikhaylov/aqa-intern-challenge-romanmikhailov) – учебный проект на Playwright: починил автотесты виджета поддержки (strict mode, селекторы), добавил сценарий перехода по популярной статье и открытия формы «Связь с поддержкой».</em>
-  </li>
-  <li>
-    API‑тесты – коллекции и автотесты для REST API (авторизация, CRUD‑операции,
-    обработка ошибок). <br/>
-    <em>Ссылка будет здесь, когда репозиторий будет готов.</em>
-  </li>
-  <li>
-    Тестовая документация – примеры чек‑листов, тест‑кейсов и баг‑репортов
-    по небольшому web‑сервису. <br/>
-    <em>Ссылка будет здесь, когда репозиторий будет готов.</em>
-  </li>
-</ul>
+## 🧮 Data Analysis & Dashboards
 
-***
+- Google Sheets / Excel  
+  Расчёт бизнес‑метрик, дашборды, финансовый и продуктовый анализ (QUERY, сводные, визуализации).
+
+- Python / Pandas  
+  Небольшие скрипты для анализа данных, обработки CSV/Excel, визуализации (matplotlib / seaborn).
+
+*Ссылки добавим сюда, когда проекты будут вынесены в отдельные репозитории или общедоступные файлы.*
+
+---
+
+## 📕 ЖКХ и энергоэффективность
+
+### Мои статьи
+
+- [Статья по интеграции IT‑сервисов для жителей многоквартирного дома](https://docs.google.com/document/d/1yXBuoo3sU4N4eZbHQ2h6A3Jb9nx0VAlI/edit?usp=sharing&ouid=104796862401805548600&rtpof=true&sd=true)
+
+### ⚡ Мои проекты
+
+1. [Проект _«Правильная точка доступа»_](https://drive.google.com/file/d/0B9AA5Sx172NnUFNSelloZlVVQTQ/view?usp=sharing&resourcekey=0-giaCks15eQy9b20-hcOAQA2)
+
+---
+
+## 📄 Резюме
 
 <p>
   <a href="https://hh.ru/resume/7c1c9224ff0bb436530039ed1f435754334752" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/HeadHunter_logo.png" alt="hh.ru" height="24">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/HeadHunter_logo.png" alt="hh.ru" height="24" />
     <strong> Резюме на hh.ru</strong>
   </a>
 </p>
-
-***
-
-### ЖКХ и энергоэффективность
-###
-<h3 align="left">📕 Мои статьи</h3>
-
-- [статья по интеграции it сервисов для жителей многоквартирного дома](https://docs.google.com/document/d/1yXBuoo3sU4N4eZbHQ2h6A3Jb9nx0VAlI/edit?usp=sharing&ouid=104796862401805548600&rtpof=true&sd=true)
-###
-<h3 align="left">⚡ Мои проекты</h3>
-
-1. [Проект _"Правильная точка доступа"_](https://drive.google.com/file/d/0B9AA5Sx172NnUFNSelloZlVVQTQ/view?usp=sharing&resourcekey=0-giaCks15eQy9b20-hcOAQA2)
-    ввход для IT компании в многоквартирный дом через предоствление жителям справедливой информации по качеству поставленного коммунального ресурса  
-###     
-    
-2. Проект __"Независимый оператор коммерческого учета коммунальных ресурсов"__ - ___предбиллинг___ и ___арбитр___ между потребителем и поставщиками коммунального ресурса
-   
-   💬 [Описание метода](https://docs.google.com/document/d/0B9AA5Sx172NnZFlOenZpYWw1WmM/edit?usp=sharing&ouid=104796862401805548600&resourcekey=0-P8riyK7FA0PwbPFIGGxpmA&rtpof=true&sd=true)
-   
-   💬 [Анализ пилотной зоны](https://docs.google.com/document/d/0B9AA5Sx172NnbzJoZ0ZJZU8wOGc/edit?usp=sharing&ouid=104796862401805548600&resourcekey=0-P4SQiNKz286E1HpGCuN85g&rtpof=true&sd=true)
-   
-   💬Собрали данные на АСУ (в данном случае это была __[АСКУЭРДЕ НИИТ ЭСКО](https://esco3e.ru/products/ascurde/askurde/))__ 
-   
-   💬и передали в биллинг __[1С](https://vgkh.ru/jsk/jkh/)__ 
-
-3. [Витруальная проектная группа по расчетам для энергосервисных контрактов по освещению городов](https://docs.google.com/presentation/d/162a7uzGYHL2zCgebDZ3XdCIAbFeCBQwt/edit?usp=sharing&ouid=104796862401805548600&rtpof=true&sd=true)
-
-    💬 [Рабочие документы по реализованному проекту](https://drive.google.com/drive/folders/0B9AA5Sx172NnVWw1Yzh5Vkk5VHM?resourcekey=0-I4yhcHuUo5PFuudFjtN4EQ&usp=sharing) 
-
-4. [КОНЦЕПЦИЯ Информационного обмена СРО - УК - Собственник](https://docs.google.com/presentation/d/1xFizkWtDwSTmXs_ezFo4v7wCnM8WdoYz/edit?usp=sharing&ouid=104796862401805548600&rtpof=true&sd=true)
-
-5. [Единичные расценки по текущему содержанию и ремонту МКД "База ТСЖ 2001"](https://docs.google.com/presentation/d/1VLkAk7mMN5tvQHZMfIxEIPvQeR8Etf2s/edit?usp=sharing&ouid=104796862401805548600&rtpof=true&sd=true)
-
-***
-
-### SA/BA/DS
-<h3 align="left">🧪  Портфолио</h3>
-<ul align="left">
-  <li>
-    Учебные проекты и т.д <br/>
-    <em>Ссылка будет здесь, когда репозиторий будет готов.
-    </em>
-
-
-***
-
- 
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roman-mikhaylov&show_icons=true&locale=en" alt="roman-mikhaylov" /></p>
-
-
-
-
-
-
-
-
-
