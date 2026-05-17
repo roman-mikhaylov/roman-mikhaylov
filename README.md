@@ -1,97 +1,94 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=roman-mikhaylov&label=Profile%20views&color=0e75b6&style=flat" alt="roman-mikhaylov" />
-</p>
+[Русский](./README.ru.md) | English
 
-# Михайлов Роман
+# Roman Mikhaylov
 
 QA Automation Engineer / Software Tester • Frontend (Angular) • Data Analyst
 
 ---
 
-- 🔭 Развиваюсь в **автоматизации тестирования** (UI+API) и построении процессов качества  
-- 🧩 Есть пет‑опыт во **фронтенде** (Angular, TypeScript, HTML/CSS)  
-- 🌱 Курсы по DS — **Synergy**, по QA, CA и BA — **GeekBrains**  
-- 🤝 Открыт к предложениям по **QA Automation / Software Testing / QA Intern / Junior**  
-- 💬 Есть экспертиза в домене **энергоэффективности и ЖКХ**  
-- 📫 Контакты: **mr.mikhailoff@gmail.com**, **+7 919 416 65 57**
+### About me
+
+- I am developing in **test automation** (UI + API) and quality engineering.
+- I have pet‑project experience in **frontend development** (Angular, TypeScript, HTML/CSS).
+- Completed courses in data analysis (Synergy) and QA/BA (GeekBrains).
+- Open to roles such as **QA Automation / Software Tester / QA Intern / Junior**.
+- I have domain expertise in **energy efficiency / housing & utilities**, as well as in payroll and financial reporting.
+
+📫 Contacts: **mr.mikhailoff@gmail.com**, **+7 919 416 65 57**
 
 ---
 
-## Tech stack (junior)
+### Tech stack (junior)
 
-Опыт: написание автотестов (Playwright), API‑тестирование (Postman), работа с БД (MySQL), pet‑проекты на **Angular/TypeScript**, Python/pandas для анализа данных.
+Experience: UI tests with Playwright, API testing with Postman, working with databases (MySQL), pet projects in **Angular/TypeScript**, Python/pandas for data analysis.
 
-| Tech | Tech | Tech | Tech | Tech |
-|------|------|------|------|------|
-| <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> | <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> | <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> | <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a> |
-| <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> | <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> | <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> | <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> | <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a> |
-| <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> | <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> |  |  |  |
+**Languages & platforms**
 
----
+- Java (basic), Python (data analysis, scripts)
+- TypeScript / JavaScript
+- SQL (MySQL)
 
-## 🧪 QA / Automation / System Analysis
+**Testing & QA**
 
-- UI‑автотесты (Playwright, JavaScript)  
-  [aqa-intern-challenge-romanmikhailov](https://github.com/roman-mikhaylov/aqa-intern-challenge-romanmikhailov) — учебный проект на Playwright: починил автотесты виджета поддержки (strict mode, селекторы), добавил сценарий перехода по популярной статье и открытия формы «Связь с поддержкой».[page:2]
+- Playwright (UI automation)
+- Postman (API tests, collections and environments)
+- Git, GitHub Actions (basic CI)
 
-- System analysis & architecture (Effective Mobile test tasks)  
-  [effective-mobile-test-tasks-qa-automation-romanmikhailov](https://github.com/roman-mikhaylov/effective-mobile-test-tasks-qa-automation-romanmikhailov) — решения тестовых заданий на позицию System Analyst / QA Automation в Effective Mobile.[page:3]  
-  Задание 1: системный анализ ТЗ корзины интернет‑магазина — поиск противоречий, переписывание требований, формирование уточняющих вопросов к заказчику.[page:3]  
-  Задание 2: дизайн REST API для списка магазинов‑партнёров — структура запросов/ответов, параметры, ошибки, пагинация и сценарий перехода по карточке магазина.[page:3]  
-  Задание 3: архитектура системы push‑уведомлений для e‑commerce — сценарии брошенной корзины, статусов заказов, маркетинговых и сервисных уведомлений, C4‑диаграммы и описание компонентов.[page:3]
+**Frontend & tools**
 
-- API‑тестирование  
-  Репозиторий с примерами коллекций и автотестов REST API (авторизация, CRUD‑операции, обработка ошибок).  
-  *Ссылка появится здесь, когда репозиторий будет готов.*
+- Angular (standalone components, SPA)
+- HTML5, CSS3
+- Figma (reading mockups, basic layout)
 
-- Тестовая документация  
-  Примеры чек‑листов, тест‑кейсов и баг‑репортов для небольшого web‑сервиса.  
-  *Ссылка появится здесь, когда репозиторий будет готов.*
+**Data / ML (for pet projects)**
+
+- Python: pandas, seaborn, scikit‑learn
+- MATLAB (basic skills)
 
 ---
 
-## 🌐 Frontend pet‑projects
+### Selected projects
 
-- [dostaffkin](https://github.com/roman-mikhaylov/dostaffkin) — учебный проект на Angular.[page:2]  
-  Верстка и стилизация интерфейса (CSS, HTML), компоненты на TypeScript, работа с маршрутизацией, сборка и деплой через GitHub Pages.[page:2]
+#### Dostaffkin — parcel delivery web app (Angular)
+
+Single‑page application for booking and tracking parcel deliveries within the country and abroad.
+
+- Live demo: https://roman-mikhaylov.github.io/dostaffkin/
+- Code: https://github.com/roman-mikhaylov/dostaffkin
+- My role: implemented the SPA in Angular (order and tracking screens), configured build and deployment to GitHub Pages.
+
+#### Svarog Kazan — landing page development from scratch (Angular)
+
+Landing page for a roofing solutions company, built as a standalone Angular project with product cards and a lead form.
+
+- Code: https://github.com/roman-mikhaylov/svarog_kazan  <!-- подставь актуальную ссылку, если другая -->
+- Stack: Angular, TypeScript, HTML, CSS.
+- What I did:
+  - set up an Angular 21+ project with standalone components,
+  - designed the structure of the landing (hero block, product grid, lead form, contacts),
+  - implemented product models and mock data, and rendered them via reusable components.
+
+#### Topface Media Analysis — managers performance analytics
+
+A set of scripts and reports to analyze media / manager performance (engagement, conversions, etc.).
+
+- Code: _add repository link here_
+- Stack: Python (pandas, seaborn), SQL, Google Sheets / Excel.
+- What I did: collected data from several sources, built metrics and visualizations for monitoring manager performance.
+
+#### QA automation test tasks (Effective Mobile and others)
+
+- Code: https://github.com/roman-mikhaylov/effective-mobile-test-tasks-qa-automation-romanmikhailov
+- What I did:
+  - designed REST API contracts for partner shops,
+  - described push‑notification architecture,
+  - implemented parts of automation and formatted the repository as a readable portfolio for recruiters.
 
 ---
 
-## 🧮 Data Analysis, ML & Dashboards
+### How I can be useful
 
-- Google Sheets / Excel  
-  Расчёт бизнес‑метрик, дашборды, финансовый и продуктовый анализ (QUERY, сводные, визуализации).[page:5]
-
-- Python / Pandas  
-  Скрипты для анализа данных, обработки CSV/Excel, визуализации (matplotlib / seaborn).[page:5]
-
-- Пошаговое обучение ML‑модели (Synergy DS course)  
-  [ML__synergya](https://github.com/roman-mikhaylov/ML__synergya) — серия ноутбуков по применению методов машинного обучения для определения факторов энергоэффективности многоквартирных домов в Нью‑Йорке.[page:4]  
-  Проект показывает по шагам подготовку данных, использование разных библиотек Python и ансамбля методов ML, с вводной теорией и практической частью в каждом ноутбуке на реальных данных (ASHRAE).[page:4]
-
-- Анализ работы менеджеров (Python + Google Sheets)  
-  [topface_media_analysis_managers](https://github.com/roman-mikhaylov/topface_media_analysis_managers) — анализ эффективности работы менеджеров по данным CRM/отчетности с помощью Python.[page:5]  
-  Данные обрабатываются и агрегируются в скриптах, а финальный отчёт и визуализации собраны в Google Sheets: [дашборд в Google Sheets](https://docs.google.com/spreadsheets/d/1hRPYjHbPY0ggeoH9YJhFT4C1TqfG97bFKTWlHXrZtfA/edit?usp=sharing).[page:5]
-
----
-
-## 📕 ЖКХ и энергоэффективность
-
-### Мои статьи
-
-- [Статья по интеграции IT‑сервисов для жителей многоквартирного дома](https://docs.google.com/document/d/1yXBuoo3sU4N4eZbHQ2h6A3Jb9nx0VAlI/edit?usp=sharing&ouid=104796862401805548600&rtpof=true&sd=true)[page:1]
-
-### ⚡ Мои проекты
-
-1. [Проект «Правильная точка доступа»](https://drive.google.com/file/d/0B9AA5Sx172NnUFNSelloZlVVQTQ/view?usp=sharing&resourcekey=0-giaCks15eQy9b20-hcOAQA2)[page:1]
-
----
-
-## 📄 Резюме
-
-<p>
-  <a href="https://hh.ru/resume/7c1c9224ff0bb436530039ed1f435754334752" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/HeadHunter_logo.png" alt="hh.ru" height="24" />
-    <strong> Резюме на hh.ru</strong>
-  </a>
-</p>
+- Write and maintain UI and API automated tests for web applications.
+- Help set up basic CI pipelines for tests (GitHub Actions).
+- Work with data (SQL + Python/pandas) and turn raw data into clear reports.
+- Communicate with developers: read frontend code (Angular), speak the same language and write precise bug reports.
