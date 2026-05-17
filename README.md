@@ -57,7 +57,7 @@ Single‑page application for booking and tracking parcel deliveries within the 
 - Code: https://github.com/roman-mikhaylov/dostaffkin
 - My role: implemented the SPA in Angular (order and tracking screens), configured build and deployment to GitHub Pages.
 
-#### Svarog Kazan — landing page development from scratch (Angular)
+#### Svarog Kazan — landing page development from scratch (Angular)((work in progress))
 
 Landing page for a roofing solutions company, built as a standalone Angular project with product cards and a lead form.
 
