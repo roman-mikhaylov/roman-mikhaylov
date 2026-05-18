@@ -72,7 +72,7 @@ Landing page for a roofing solutions company, built as a standalone Angular proj
 
 A set of scripts and reports to analyze media / manager performance (engagement, conversions, etc.).
 
-- Code: _add repository link here_
+- Code: https://github.com/roman-mikhaylov/topface_media_analysis_managers.git
 - Stack: Python (pandas, seaborn), SQL, Google Sheets / Excel.
 - What I did: collected data from several sources, built metrics and visualizations for monitoring manager performance.
 
